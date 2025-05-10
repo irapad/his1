@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "vueappp-c4df5",
+    "staging": "vueappp-c4df5"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
